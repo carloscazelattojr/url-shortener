@@ -1,0 +1,8 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ãØ—üÿÿÿÿ
+[	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Óİş
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î½Ú¦
+S
+java:S6242"8Set the credentials provider explicitly on this builder.(•ïúÿÿÿÿÿ
+E
+java:S6241"*Set the region explicitly on this builder.(•ïúÿÿÿÿÿ
